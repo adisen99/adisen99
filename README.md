@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://adisen99.github.io/](https://adisen99.github.io/)
 
-- 📫 How to reach me **adisen99@protonmail.com**
+- 📫 How to reach me **adityasenguptasai99@gmail.com**
 
 - ⚡ Fun fact **Try typing `import this` in `python` script or prompt and you will find something. ;)**
 
