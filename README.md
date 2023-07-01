@@ -17,8 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adisen99&layout=compact&theme=dark" alt="adisen99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adisen99&show_icons=true&theme=dark" alt="adisen99" /></p>
-
 <p align="center">
 <a href="https://twitter.com/adi_sen99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adi_sen99" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/aditya-sengupta-10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aditya-sengupta-10" height="30" width="30" /></a>
