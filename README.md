@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adisen99" alt="adisen99" /> </p>
 
-- 🌱 I’m currently learning **Fortran, Lua, Rust, Go and Julia**
+- 🌱 I’m currently learning **Fortran, Lua, Julia**
 
 - 👨‍💻 My summer projects are available at [https://www.researchgate.net/profile/Aditya_Sengupta5](https://www.researchgate.net/profile/Aditya_Sengupta5)
 
